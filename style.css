@@ -27,7 +27,9 @@ body {
     border-radius: 10px;
     border: 3px solid greenyellow;
 }
-
+.nome{
+  color: darkgoldenrod;
+}
 h1, .caixa-perguntas, .caixa-resultado {
     font-family: 'Chakra Petch', sans-serif;
 }
